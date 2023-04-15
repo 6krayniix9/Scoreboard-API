@@ -1,4 +1,4 @@
-# Scoreboard-API
+<h1 align="center">Scoreboard-API</h1>
 
 ## Exemple
 
@@ -12,4 +12,4 @@
         scoreboard.setScore(ChatColor.GRAY + "Hello World !", 1);
         scoreboard.setScore(ChatColor.GRAY + "Pseudo: " + player.getName(), 2);
     }
-    ```
+```
