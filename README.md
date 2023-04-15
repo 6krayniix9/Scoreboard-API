@@ -1,6 +1,6 @@
 # Scoreboard-API
 
-##Exemple
+## Exemple
 
 ```java
     @EventHandler
